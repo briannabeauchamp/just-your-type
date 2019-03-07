@@ -15,3 +15,11 @@ body {
   font-family: "Grand Hotel", cursive;
   color: #ff69b4;
 }
+
+.top-space {
+  padding-top: 12em;
+}
+
+span {
+  color: #ff69b4;
+}
