@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+.playfair {
+  font-family: ' Playfair Display ', serif;
+}
+
+.anton {
+  font-family: 'Anton', sans-serif;
+}
+
+.hotel {
+  font-family: 'Grand Hotel', cursive;
+  color: #FF69B4;
+}
